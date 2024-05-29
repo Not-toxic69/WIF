@@ -12,10 +12,10 @@ body {
                                                 
 }
 .rm{
-  font-size: 12px !important;
+  font-size: 15px !important;
 }
 .rm1{
-  font-size: 14px !important;
+  font-size: 16px !important;
 }
 .number{
 max-width: 400px;
@@ -853,7 +853,7 @@ a:focus {
 }
 
 .client_section .box .detail-box h4 {
-  text-transform: uppercase;
+ 
   font-size: 24px;
 }
 
